@@ -2,7 +2,7 @@ import io.micrometer.common.lang.NonNull;
 import jakarta.persistence.*;
 
 @Entity
-public class User {
+public class Userr {
     @Id
     public Long id;
 
